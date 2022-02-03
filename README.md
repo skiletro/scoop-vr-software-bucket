@@ -1,4 +1,4 @@
-# 🥽 Scoop VR Bucket 
+# 🥽 Scoop VR Bucket
 [![Build Status](https://ci.appveyor.com/api/projects/status/t1xcktmlipga4pk3?svg=true)](https://ci.appveyor.com/project/soursecorst/vr "Build Status") [![Excavator](https://github.com/soursecorst/vr/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml)
 
 Bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
