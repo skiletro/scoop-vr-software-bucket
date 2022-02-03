@@ -2,6 +2,7 @@
 [![Excavator](https://github.com/soursecorst/vr/actions/workflows/excavator.yml/badge.svg)](https://github.com/soursecorst/vr/actions/workflows/excavator.yml)
 
 Bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
+
 Contains list of VR related applications. Mostly for personal use.
 
 How do I install these manifests?
