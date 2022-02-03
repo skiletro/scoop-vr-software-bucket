@@ -8,7 +8,10 @@ Contains list of VR related applications. Mostly for personal use.
 How do I install these manifests?
 ---------------------------------
 
-To add this bucket, run `scoop bucket add vr https://github.com/soursecorst/vr`. 
+To add this bucket, run in Powershell `scoop bucket add vr https://github.com/soursecorst/vr`. 
+``` powershell
+scoop bucket add vr https://github.com/soursecorst/vr
+```
 
 To install, do `scoop install <manifest>`.
 
