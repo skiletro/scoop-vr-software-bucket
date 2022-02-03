@@ -5,7 +5,6 @@
     "license": "MIT",
     "url": "https://github.com/pypy-vrc/VRCX/releases/download/v2022.02.02/VRCX_20220202.zip",
     "hash": "a0884b44e699f39d4dca3c13713e2b1971c1f323731f335aa9a251988728fe29",
-    "bin": "VRCX.exe",
     "shortcuts": [
         [
             "VRCX.exe",
