@@ -29,5 +29,5 @@ To make a new manifest contribution, please read the [Contributing Guide](https:
 | [ALVR](https://github.com/alvr-org/ALVR) | Alternative to Oculus Link App, to play PCVR games wirelessly. Fork of original [polygraphene/ALVR](https://github.com/polygraphene/ALVR) |
 | [VRCX](https://github.com/pypy-vrc/VRCX) | VRChat assistant. Using unnoficial [VRC API](https://github.com/vrchatapi) |
 | [SlimeVR](https://github.com/SlimeVR/SlimeVR-Server) | Tracking solution based on accelerometer and magnetometer sensors |
-| ~~[SideQuest](https://github.com/SideQuestVR/SideQuest) | Sideload .apk files, enable/disable extra features on Oculus VR Headsets~~ |
-| ~~[K2VR](https://github.com/KinectToVR/KinectToVR) | Full-body tracking using a Kinect for Xbox 360/One or PlayStation Move controllers and cameras.~~ |
+| ~~[SideQuest](https://github.com/SideQuestVR/SideQuest)~~ | ~~Sideload .apk files, enable/disable extra features on Oculus VR Headsets~~ |
+| ~~[K2VR](https://github.com/KinectToVR/KinectToVR)~~ | ~~Full-body tracking using a Kinect for Xbox 360/One or PlayStation Move controllers and cameras.~~ |
