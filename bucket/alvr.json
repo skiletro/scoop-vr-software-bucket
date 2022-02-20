@@ -1,12 +1,12 @@
 {
-    "version": "17.0.1",
+    "version": "17.0.2",
     "description": "Stream VR games from your PC to your headset via Wi-Fi",
     "homepage": "https://github.com/alvr-org/ALVR",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/alvr-org/ALVR/releases/download/v17.0.1/alvr_server_windows.zip",
-            "hash": "a69548cac2c6bdc667d9c0fe683a70eff3a2cc449ad029f696f3ca1881bfb5e5",
+            "url": "https://github.com/alvr-org/ALVR/releases/download/v17.0.2/alvr_server_windows.zip",
+            "hash": "d9002e9a6da9ed8e1dd88c38cd43dc4a63a927e0473366b0d9f23eb024b47288",
         }
     },
     "extract_dir": "alvr_server_windows",
