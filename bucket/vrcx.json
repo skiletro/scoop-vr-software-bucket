@@ -10,8 +10,10 @@
             "VRCX"
         ]
     ],
-    "checkver": "github",
+/* Auto Update disabled due to problems with mathicng version tag
+"checkver": "github",
     "autoupdate": {
         "url": "https://github.com/pypy-vrc/VRCX/releases/download/v$version/VRCX_$cleanVersion.zip"
     }
+*/
 }
