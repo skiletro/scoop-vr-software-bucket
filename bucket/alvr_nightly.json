@@ -1,0 +1,18 @@
+{
+    "version": "19.0.0-dev00+nightly.2022.08.07",
+    "description": "Stream VR games from your PC to your headset via Wi-Fi",
+    "homepage": "https://github.com/alvr-org/ALVR",
+    "license": "MIT",
+    "url": "https://github.com/alvr-org/ALVR-nightly/releases/download/v19.0.0-dev00+nightly.2022.08.07/alvr_server_windows.zip",
+    "extract_dir": "alvr_server_windows",
+    "shortcuts": [
+        [
+            "ALVR Launcher.exe",
+            "ALVR Nightly"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/alvr-org/ALVR-nightly/releases/download/v$version/alvr_server_windows.zip"
+    }
+}
