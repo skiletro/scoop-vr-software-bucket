@@ -1,9 +1,9 @@
 {
-    "version": "2022.10.05.1",
+    "version": "2022.12.08",
     "description": "VRC Assistans that uses the unofficial VRChat API (VRCSDK)",
     "homepage": "https://github.com/pypy-vrc/VRCX",
     "license": "MIT",
-    "url": "https://github.com/pypy-vrc/VRCX/releases/download/v2022.10.05/VRCX_20221005.zip",
+    "url": "https://github.com/pypy-vrc/VRCX/releases/download/v2022.12.08/VRCX_20221208.zip",
     "shortcuts": [
         [
             "VRCX.exe",
