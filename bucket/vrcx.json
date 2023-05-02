@@ -1,9 +1,9 @@
 {
-    "version": "2023.02.18",
+    "version": "2023.05.01",
     "description": "VRC Assistans that uses the unofficial VRChat API (VRCSDK)",
     "homepage": "https://github.com/vrcx-team/VRCX",
     "license": "MIT",
-    "url": "https://github.com/vrcx-team/VRCX/releases/download/v2023.02.18/VRCX_20230218.zip",
+    "url": "https://github.com/vrcx-team/VRCX/releases/download/v2023.05.01/VRCX_20230501.zip",
     "shortcuts": [
         [
             "VRCX.exe",
