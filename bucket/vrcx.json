@@ -1,6 +1,6 @@
 {
     "version": "2023.12.24",
-    "description": "VRC Assistans that uses the unofficial VRChat API (VRCSDK)",
+    "description": "VRC Assistant that uses the unofficial VRChat API (VRCSDK)",
     "homepage": "https://github.com/vrcx-team/VRCX",
     "license": "MIT",
     "url": "https://github.com/vrcx-team/VRCX/releases/download/v2023.12.24/VRCX_20231224.zip",
