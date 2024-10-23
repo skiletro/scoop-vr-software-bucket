@@ -1,5 +1,5 @@
 # 🥽 Scoop VR Bucket
-[![Excavator](https://github.com/soursecorst/vr/actions/workflows/excavator.yml/badge.svg)](https://github.com/soursecorst/vr/actions/workflows/excavator.yml)
+[![Excavator](https://github.com/skiletro/scoop-vr-software-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/skiletro/scoop-vr-software-bucket/actions/workflows/excavator.yml)
 
 Bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
@@ -10,10 +10,10 @@ How do I install these manifests?
 
 To add this bucket, run in Powershell
 ``` powershell
-scoop bucket add vr https://github.com/soursecorst/vr
+scoop bucket add vr https://github.com/skiletro/scoop-vr-software-bucket
 ```
 
-To install, do `scoop install <manifest>`.
+To install, do `scoop install vr/<manifest>`.
 
 How do I contribute new manifests?
 ----------------------------------
