@@ -25,3 +25,4 @@ To make a new manifest contribution, please read the [Contributing Guide](https:
 | Manifest | Description |
 |----------|-------------|
 | [ALVR](https://github.com/alvr-org/ALVR) | Alternative to Oculus Link App, to play PCVR games wirelessly using [SteamVR](https://www.steamvr.com/). Fork of original [polygraphene/ALVR](https://github.com/polygraphene/ALVR) |
+| [Mod Assistant](https://github.com/bsmg/ModAssistant) | Simple Beat Saber Mod Installer |
