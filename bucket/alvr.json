@@ -1,9 +1,9 @@
 {
-    "version": "20.12.1",
+    "version": "20.13.0",
     "description": "Stream VR games from your PC to your headset via Wi-Fi",
     "homepage": "https://github.com/alvr-org/ALVR",
     "license": "MIT",
-    "url": "https://github.com/alvr-org/ALVR/releases/download/v20.12.1/alvr_streamer_windows.zip",
+    "url": "https://github.com/alvr-org/ALVR/releases/download/v20.13.0/alvr_streamer_windows.zip",
     "shortcuts": [
         [
             "ALVR Dashboard.exe",
